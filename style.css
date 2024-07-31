@@ -73,11 +73,12 @@ body{
 
 input, button{
     width: 100%;
-    border: 1px solid rgba(0, 0, 0, 0.1);
+    border: 0.5px solid black;
     padding: 15px;
     outline: none;
     font-size: 1rem;
     font-family: serif;
+    border-radius: 5px;
 }
 
 button{
